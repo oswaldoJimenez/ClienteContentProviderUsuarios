@@ -19,16 +19,12 @@ public class MiProverdorContenidoContract {
         public static final Uri CONTENT_URI = null;
 
 
-
         public static final String LOCALE = "locale";
         public static final String _ID = "_id";
         public static final String EMAIL = "email";
         public static final String NOMBRE = "nombre";
         public static final String PASS = "password";
         public static final String TELEFONO = "telefono";
-
-
-
 
     }
 }
